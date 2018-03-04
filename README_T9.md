@@ -1,4 +1,3 @@
-
 // This script builds a program to implement T9 predictive text, a text input mode available on many cell phones and keypads. 
 // Each number from 2-9 on the keypad represent three or four letters, the number 0 represents a space, and 1 represents a set of symbols such as { , . ! ? } etc. 
 // The numbers from 2-9 represent letters as follows:
