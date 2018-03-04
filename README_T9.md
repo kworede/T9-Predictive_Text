@@ -39,6 +39,7 @@ instead of one of the digits 2-9. (The words linked from a node by the '#' edges
 For example, if the program reads the set of words "jello","rocks", and "socks" from the dictionary and adds it to an empty trie, the resulting trie 
 should look like this:
 
+![t9](https://user-images.githubusercontent.com/37035048/36951450-df7ece52-1fb8-11e8-92ea-acb1ab3ca9c3.PNG)
 
 
 Once your program has read the dictionary and built the trie containing the words in it, it should start an interactive session. The user should be 
