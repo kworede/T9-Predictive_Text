@@ -69,6 +69,6 @@ Enter Key Sequence (or "#" for next word):
 > 76257##
 	There are no more T9onyms
 >4423
-	Not found in current dictionary
+	Not found in current dictionary.
 >exit
 The interactive session should terminate either when the user enters the word "exit" or when the end-of-file is reached on the interactive input (indicated by typing control-D on the keyboard).
